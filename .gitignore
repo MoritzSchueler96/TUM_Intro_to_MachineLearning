@@ -1,9 +1,6 @@
 #### Taken from: https://github.com/github/gitignore/blob/master/Python.gitignore
 #################################################################################
 
-Pytorch/exercise/data
-Pytorch/solution/data
-
 *.tar.gz
 
 # Jupyter Notebook
