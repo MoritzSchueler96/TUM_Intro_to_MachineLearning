@@ -1,0 +1,14 @@
+#### Taken from: https://github.com/github/gitignore/blob/master/Python.gitignore
+#################################################################################
+
+Pytorch/exercise/data
+Pytorch/solution/data
+
+*.tar.gz
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#### Remove stuff from above as needed ####
+###########################################
+####     Add stuf below as needed      ####
